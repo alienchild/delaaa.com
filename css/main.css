@@ -3058,6 +3058,7 @@ body.inverse {
 .inverse .main_block_text .info address {
   color: rgba(0, 0, 0, 0.6);
   font-weight: 500;
+  text-align: left;
 }
 /* line 50, ../sass/_partials/_inverse.scss */
 .inverse a {
