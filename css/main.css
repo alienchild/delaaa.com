@@ -491,7 +491,7 @@ display: none
   padding: 0;
   margin: -2px auto 0;
   opacity: 1;
-  background-color: transparent;
+ background-color: #1dbf73;
   z-index: 1;
   will-change: opacity;
   text-transform: uppercase;
