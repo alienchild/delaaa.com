@@ -490,7 +490,7 @@ display: none
   min-height: 50px;
   padding: 0;
   margin: -2px auto 0;
-  opacity: 1;
+color: black;
  background-color: #1dbf73;
   z-index: 1;
   will-change: opacity;
@@ -3375,3 +3375,8 @@ body.inverse {
   width: 100%;
   height: auto;
 }
+
+.font1{font-size: 23px;
+    color: white;}
+.font2{    font-size: 21px;
+    color: white;}
